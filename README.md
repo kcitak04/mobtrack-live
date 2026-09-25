@@ -9,3 +9,7 @@ It works exactly like [MOBTRACK](https://kcitak04.github.io/mobtrack/): 8 tracks
 Open https://kcitak04.github.io/mobtrack-live/ in Chrome. To install it as an app on Android, use **INSTALL APP** in the FILE tab or Chrome's menu ⋮ → **Install app**.
 
 It installs next to the original MOBTRACK. Each edition keeps its own autosave.
+
+## Android app (APK)
+
+Download **[MOBTRACK-live.apk](https://github.com/kcitak04/mobtrack-live/releases/download/v1.0/MOBTRACK-live.apk)** on your phone and open it. It installs as **MOBTRACK live**, a separate app next to MOBTRACK, and works fully offline.
