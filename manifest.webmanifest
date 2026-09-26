@@ -1,7 +1,7 @@
 {
-  "name": "MOBTRACK Live",
-  "short_name": "MT Live",
-  "description": "MOBTRACK music tracker with an Ableton Live-inspired look.",
+  "name": "DATTRACK Studio",
+  "short_name": "DT Studio",
+  "description": "DATTRACK music tracker, Studio edition (dark grey look).",
   "id": "/mobtrack-live/",
   "start_url": "./",
   "scope": "./",
